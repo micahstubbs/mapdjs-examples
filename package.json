@@ -1,0 +1,10 @@
+{
+  "name": "mapdjs-examples",
+  "version": "1.0.0",
+  "description": "mapd javascript examples",
+  "main": "index.js",
+  "repository": "https://github.com/micahstubbs/mapdjs-examples",
+  "author": "@micahstubbs",
+  "license": "MIT",
+  "private": false
+}
